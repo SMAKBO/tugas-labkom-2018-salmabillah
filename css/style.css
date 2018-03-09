@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+}
+
+table, th, td { border : 1px solid black; }
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color:  #00004d;
+}
