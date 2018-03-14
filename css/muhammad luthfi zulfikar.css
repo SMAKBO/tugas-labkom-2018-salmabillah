@@ -1,0 +1,24 @@
+body {
+  background-image: url(https://i1.wp.com/mameara.com/wp-content/uploads/2012/09/Scientific-large-vectorgab.jpg);
+}
+
+.icon{
+	width: 3%;
+	height: 3%;
+	margin-right: 1%;
+}
+.head{
+	position: fixed;
+	background-color: #FFFF80;
+	margin-top: 5%;
+	width: 97%;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
+    border-radius: 4px;
+}
+
+.Judul {font-size: 5vh}
+.body {padding-right: 20%;padding-left: 20%;
+background-image: url(https://i1.wp.com/mameara.com/wp-content/uploads/2012/09/Scientific-large-vectorgab.jpg);
+background-size: fill;}
+.paragraf {background-color: #FFFF80;	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8) padding-right: 3%;padding-left: 3%;margin-top:8%;margin-bottom:5%;padding-top:3%;padding-bottom:3%;border-radius: 4px}
+.tengah{margin-left: -20%}
