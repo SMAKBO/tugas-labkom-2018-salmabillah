@@ -48,3 +48,27 @@ margin: 0px 0px 0px 30px;
 .ape {
 	background-color: #999999
 }
+
+.z1 {
+    background-color: lightgrey;
+}
+
+.z4, th, td { 
+	border : 1px solid black; 
+     margin-left:5%
+
+}
+
+.z2 {
+    text-align: center;
+    text-transform: uppercase;
+    color:  #00004d;
+}
+
+.z3 {
+ 
+    margin-left: auto;
+    margin-right: 6%;
+    height: 20px
+    width :30px
+}
