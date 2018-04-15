@@ -1,0 +1,42 @@
+body {
+  background-image: url(https://i1.wp.com/mameara.com/wp-content/uploads/2012/09/Scientific-large-vectorgab.jpg);
+}
+
+.navbar {
+  background-color: #ffff80;
+}
+
+.dropdown-menu {
+  background-color: #ffffb3;
+}
+
+.footer{
+  background-color: #ffff80;
+  height: 180px;
+}
+
+.as{
+  margin: 40px 0px 0px 0px;
+}
+
+.img1{
+height: 30px;
+width: 30px ;
+float: middle;
+}
+
+.img2{
+height: 30px;
+width:  30px ;
+margin: 0px 0px 0px 30px;
+}
+
+.img3{
+height: 40px;
+width:  40px ;
+margin: 0px 0px 0px 30px;
+}
+
+.aa{
+  margin: 5PX 0px 0px 0px;
+}
